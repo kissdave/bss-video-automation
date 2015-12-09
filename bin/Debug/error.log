@@ -1,0 +1,939 @@
+INFO	2015. 10. 28. 18:05:57.657	Software started
+WARNING	2015. 10. 28. 18:06:05.381	Software terminated
+INFO	2015. 10. 28. 18:07:28.788	Software started
+ERROR	2015. 10. 28. 18:07:31.118	Server not avaliable, No connection could be made because the target machine actively refused it 127.0.0.1:5250
+WARNING	2015. 10. 28. 18:07:34.813	Software terminated
+INFO	2015. 10. 29. 0:44:54.129	Software started
+WARNING	2015. 10. 29. 0:45:00.821	Software terminated
+INFO	2015. 10. 29. 0:47:00.178	Software started
+WARNING	2015. 10. 29. 0:47:02.668	Software terminated
+INFO	2015. 10. 29. 0:50:13.729	Software started
+WARNING	2015. 10. 29. 0:50:16.689	Software terminated
+INFO	2015. 10. 29. 1:02:08.423	Software started
+WARNING	2015. 10. 29. 1:02:19.212	Software terminated
+INFO	2015. 10. 29. 1:21:28.063	Software started
+WARNING	2015. 10. 29. 1:21:32.522	Software terminated
+INFO	2015. 10. 29. 1:21:44.030	Software started
+WARNING	2015. 10. 29. 1:22:02.147	Software terminated
+INFO	2015. 10. 29. 1:22:51.962	Software started
+WARNING	2015. 10. 29. 1:23:40.727	Software terminated
+INFO	2015. 10. 29. 1:24:45.829	Software started
+WARNING	2015. 10. 29. 1:25:08.220	Software terminated
+INFO	2015. 10. 29. 1:26:12.469	Software started
+WARNING	2015. 10. 29. 1:26:32.988	Software terminated
+INFO	2015. 10. 29. 1:28:30.960	Software started
+INFO	2015. 10. 29. 1:29:19.820	Software started
+INFO	2015. 10. 29. 1:29:42.534	Software started
+INFO	2015. 10. 29. 1:30:26.240	Software started
+WARNING	2015. 10. 29. 1:30:41.055	Software terminated
+INFO	2015. 10. 29. 1:31:19.475	Software started
+WARNING	2015. 10. 29. 1:31:34.688	Software terminated
+INFO	2015. 10. 29. 1:34:06.415	Software started
+WARNING	2015. 10. 29. 1:34:14.067	Software terminated
+INFO	2015. 10. 29. 1:42:19.779	Software started
+INFO	2015. 10. 29. 1:43:19.898	Software started
+WARNING	2015. 10. 29. 1:43:37.527	Software terminated
+INFO	2015. 10. 29. 1:44:21.813	Software started
+WARNING	2015. 10. 29. 1:44:37.708	Software terminated
+INFO	2015. 10. 29. 1:46:30.517	Software started
+INFO	2015. 10. 29. 1:47:15.797	Software started
+WARNING	2015. 10. 29. 1:47:27.995	Software terminated
+INFO	2015. 10. 29. 1:49:25.528	Software started
+WARNING	2015. 10. 29. 1:49:57.797	Software terminated
+INFO	2015. 10. 29. 1:50:23.210	Software started
+INFO	2015. 10. 29. 1:52:04.967	Software started
+WARNING	2015. 10. 29. 1:52:10.627	Software terminated
+INFO	2015. 10. 29. 1:52:15.152	Software started
+WARNING	2015. 10. 29. 1:52:22.113	Software terminated
+INFO	2015. 10. 29. 1:52:39.263	Software started
+WARNING	2015. 10. 29. 1:52:45.379	Software terminated
+INFO	2015. 10. 29. 1:53:02.707	Software started
+WARNING	2015. 10. 29. 1:53:21.881	Software terminated
+INFO	2015. 10. 29. 1:53:37.835	Software started
+WARNING	2015. 10. 29. 1:53:52.702	Software terminated
+INFO	2015. 10. 31. 17:19:43.248	Software started
+ERROR	2015. 10. 31. 17:20:05.461	Server not avaliable, No connection could be made because the target machine actively refused it 127.0.0.1:5250
+WARNING	2015. 10. 31. 17:21:19.779	Software terminated
+INFO	2015. 11. 4. 23:57:45.099	Software started
+ERROR	2015. 11. 4. 23:58:18.770	Server not avaliable, No connection could be made because the target machine actively refused it 127.0.0.1:5250
+WARNING	2015. 11. 5. 0:00:11.991	Software terminated
+INFO	2015. 11. 18. 18:00:39.189	Software started
+INFO	2015. 11. 18. 18:02:06.506	Connected to server
+INFO	2015. 11. 18. 18:02:10.638	Playout started
+WARNING	2015. 11. 18. 18:02:25.218	Playout stopped
+INFO	2015. 11. 18. 18:02:26.623	Playout started
+WARNING	2015. 11. 18. 18:02:32.950	Playout stopped
+ERROR	2015. 11. 18. 18:02:35.453	Disconnected from server
+WARNING	2015. 11. 18. 18:02:35.455	Software terminated
+INFO	2015. 11. 18. 18:04:23.950	Software started
+INFO	2015. 11. 18. 18:04:25.999	Connected to server
+INFO	2015. 11. 18. 18:04:27.049	Playout started
+WARNING	2015. 11. 18. 18:05:15.270	Playout stopped
+ERROR	2015. 11. 18. 18:05:17.982	Disconnected from server
+WARNING	2015. 11. 18. 18:05:21.484	Software terminated
+INFO	2015. 11. 18. 19:27:47.977	Software started
+INFO	2015. 11. 18. 19:27:49.843	Connected to server
+INFO	2015. 11. 18. 19:31:34.426	Software started
+INFO	2015. 11. 18. 19:31:35.562	Connected to server
+INFO	2015. 11. 18. 19:33:06.956	Software started
+INFO	2015. 11. 18. 19:33:08.333	Connected to server
+INFO	2015. 11. 18. 19:35:28.196	Software started
+INFO	2015. 11. 18. 19:35:30.102	Connected to server
+INFO	2015. 11. 18. 19:35:56.345	Playout started
+INFO	2015. 11. 18. 19:37:00.269	Software started
+INFO	2015. 11. 18. 19:37:01.431	Connected to server
+INFO	2015. 11. 18. 19:37:01.995	Playout started
+WARNING	2015. 11. 18. 19:37:32.166	Playout stopped
+ERROR	2015. 11. 18. 19:37:32.168	Disconnected from server
+WARNING	2015. 11. 18. 19:37:32.169	Software terminated
+INFO	2015. 11. 18. 19:37:56.592	Software started
+INFO	2015. 11. 18. 19:37:58.145	Connected to server
+INFO	2015. 11. 18. 19:37:58.665	Playout started
+WARNING	2015. 11. 18. 19:39:15.995	Playout stopped
+ERROR	2015. 11. 18. 19:39:18.777	Disconnected from server
+WARNING	2015. 11. 18. 19:39:21.779	Software terminated
+INFO	2015. 11. 18. 19:41:10.197	Software started
+INFO	2015. 11. 18. 19:41:16.337	Connected to server
+INFO	2015. 11. 18. 19:41:16.930	Playout started
+INFO	2015. 11. 18. 19:42:38.582	Software started
+INFO	2015. 11. 18. 19:42:40.306	Connected to server
+INFO	2015. 11. 18. 19:42:40.828	Playout started
+WARNING	2015. 11. 18. 19:43:39.390	Playout stopped
+ERROR	2015. 11. 18. 19:43:39.392	Disconnected from server
+WARNING	2015. 11. 18. 19:43:39.393	Software terminated
+INFO	2015. 11. 18. 19:43:56.373	Software started
+INFO	2015. 11. 18. 19:43:57.787	Connected to server
+INFO	2015. 11. 18. 19:43:58.718	Playout started
+INFO	2015. 11. 18. 19:46:36.675	Software started
+INFO	2015. 11. 18. 19:46:37.991	Connected to server
+INFO	2015. 11. 18. 19:46:38.404	Playout started
+INFO	2015. 11. 18. 19:47:43.987	Software started
+WARNING	2015. 11. 18. 19:47:48.002	Software terminated
+INFO	2015. 11. 18. 19:47:54.357	Software started
+INFO	2015. 11. 18. 19:47:55.556	Connected to server
+INFO	2015. 11. 18. 19:47:56.037	Playout started
+ERROR	2015. 11. 18. 19:48:59.009	Media not found
+INFO	2015. 11. 18. 19:50:21.684	Software started
+INFO	2015. 11. 18. 19:50:23.372	Connected to server
+INFO	2015. 11. 18. 19:50:23.812	Playout started
+INFO	2015. 11. 18. 19:52:35.116	Software started
+INFO	2015. 11. 18. 19:52:36.506	Connected to server
+INFO	2015. 11. 18. 19:52:36.958	Playout started
+ERROR	2015. 11. 18. 19:52:59.003	Media not found
+INFO	2015. 11. 18. 19:53:37.145	Software started
+INFO	2015. 11. 18. 19:53:38.380	Connected to server
+INFO	2015. 11. 18. 19:53:38.776	Playout started
+INFO	2015. 11. 18. 19:55:36.096	Software started
+INFO	2015. 11. 18. 19:55:37.177	Connected to server
+INFO	2015. 11. 18. 19:55:37.483	Playout started
+INFO	2015. 11. 18. 19:57:13.207	Software started
+INFO	2015. 11. 18. 19:57:14.490	Connected to server
+INFO	2015. 11. 18. 19:57:14.733	Playout started
+WARNING	2015. 11. 18. 19:58:10.357	Playout stopped
+ERROR	2015. 11. 18. 19:58:10.359	Disconnected from server
+WARNING	2015. 11. 18. 19:58:13.599	Software terminated
+INFO	2015. 11. 19. 2:24:23.475	Software started
+INFO	2015. 11. 19. 2:24:28.123	Connected to server
+INFO	2015. 11. 19. 2:24:30.196	Playout started
+INFO	2015. 11. 19. 2:26:34.651	Software started
+WARNING	2015. 11. 19. 2:26:43.892	Software terminated
+INFO	2015. 11. 19. 2:27:09.992	Software started
+WARNING	2015. 11. 19. 2:27:24.451	Software terminated
+INFO	2015. 11. 19. 2:28:07.048	Software started
+WARNING	2015. 11. 19. 2:28:22.549	Software terminated
+INFO	2015. 11. 19. 2:30:05.111	Software started
+WARNING	2015. 11. 19. 2:30:10.221	Software terminated
+INFO	2015. 11. 19. 2:30:31.723	Software started
+INFO	2015. 11. 19. 2:31:40.343	Software started
+INFO	2015. 11. 19. 2:34:53.636	Software started
+WARNING	2015. 11. 19. 2:35:06.114	Software terminated
+INFO	2015. 11. 19. 2:35:19.267	Software started
+WARNING	2015. 11. 19. 2:35:32.694	Software terminated
+INFO	2015. 11. 19. 2:35:54.480	Software started
+INFO	2015. 11. 19. 2:35:55.988	Connected to server
+INFO	2015. 11. 19. 2:35:57.487	Playout started
+WARNING	2015. 11. 19. 2:43:30.787	Playout stopped
+ERROR	2015. 11. 19. 2:43:36.449	Disconnected from server
+WARNING	2015. 11. 19. 2:43:40.100	Software terminated
+INFO	2015. 11. 20. 16:14:21.454	Software started
+WARNING	2015. 11. 20. 16:14:28.234	Software terminated
+INFO	2015. 11. 20. 16:15:24.383	Software started
+INFO	2015. 11. 20. 16:15:26.402	Connected to server
+INFO	2015. 11. 20. 16:15:28.455	Playout started
+INFO	2015. 11. 20. 16:21:03.943	Software started
+INFO	2015. 11. 20. 16:21:05.381	Connected to server
+ERROR	2015. 11. 20. 16:21:08.403	Disconnected from server
+WARNING	2015. 11. 20. 16:21:08.404	Software terminated
+INFO	2015. 11. 20. 16:21:24.414	Software started
+INFO	2015. 11. 20. 16:21:26.125	Connected to server
+INFO	2015. 11. 20. 16:21:26.671	Playout started
+INFO	2015. 11. 20. 16:29:19.009	Software started
+INFO	2015. 11. 20. 16:29:20.604	Connected to server
+INFO	2015. 11. 20. 16:29:21.122	Playout started
+INFO	2015. 11. 20. 16:31:01.711	Software started
+INFO	2015. 11. 20. 16:31:03.076	Connected to server
+INFO	2015. 11. 20. 16:31:03.480	Playout started
+WARNING	2015. 11. 20. 16:31:29.018	Playout stopped
+ERROR	2015. 11. 20. 16:31:29.019	Disconnected from server
+WARNING	2015. 11. 20. 16:31:29.020	Software terminated
+INFO	2015. 11. 20. 16:35:45.106	Software started
+INFO	2015. 11. 20. 16:35:46.920	Connected to server
+INFO	2015. 11. 20. 16:35:48.815	Playout started
+WARNING	2015. 11. 20. 16:36:11.113	Playout stopped
+ERROR	2015. 11. 20. 16:36:15.071	Disconnected from server
+INFO	2015. 11. 20. 16:37:12.096	Software started
+INFO	2015. 11. 20. 16:37:13.524	Connected to server
+INFO	2015. 11. 20. 16:37:14.158	Playout started
+INFO	2015. 11. 20. 16:49:39.944	Software started
+INFO	2015. 11. 20. 16:49:42.842	Connected to server
+INFO	2015. 11. 20. 16:49:51.234	Playout started
+INFO	2015. 11. 20. 16:50:26.488	Software started
+INFO	2015. 11. 20. 16:50:27.776	Connected to server
+INFO	2015. 11. 20. 16:50:57.682	Playout started
+INFO	2015. 11. 20. 16:52:16.718	Software started
+INFO	2015. 11. 20. 16:52:17.861	Connected to server
+INFO	2015. 11. 20. 16:52:21.526	Playout started
+INFO	2015. 11. 20. 16:54:47.691	Software started
+INFO	2015. 11. 20. 16:54:49.125	Connected to server
+INFO	2015. 11. 20. 16:54:49.821	Playout started
+INFO	2015. 11. 20. 16:55:35.966	Software started
+INFO	2015. 11. 20. 16:55:37.531	Connected to server
+INFO	2015. 11. 20. 16:55:38.366	Playout started
+INFO	2015. 11. 20. 16:57:58.974	Software started
+INFO	2015. 11. 20. 16:58:00.192	Connected to server
+INFO	2015. 11. 20. 16:58:00.745	Playout started
+INFO	2015. 11. 20. 17:04:04.078	Software started
+INFO	2015. 11. 20. 17:04:25.398	Connected to server
+INFO	2015. 11. 20. 17:04:26.014	Playout started
+INFO	2015. 11. 20. 17:06:30.994	Software started
+INFO	2015. 11. 20. 17:06:32.086	Connected to server
+INFO	2015. 11. 20. 17:06:32.993	Playout started
+INFO	2015. 11. 20. 17:09:07.879	Software started
+INFO	2015. 11. 20. 17:09:09.130	Connected to server
+INFO	2015. 11. 20. 17:09:09.709	Playout started
+INFO	2015. 11. 20. 17:11:26.957	Software started
+WARNING	2015. 11. 20. 17:11:30.044	Software terminated
+INFO	2015. 11. 21. 10:51:29.625	Software started
+INFO	2015. 11. 21. 10:55:12.965	Software started
+INFO	2015. 11. 21. 11:21:02.450	Software started
+WARNING	2015. 11. 21. 11:21:08.005	Software terminated
+INFO	2015. 11. 21. 11:21:28.285	Software started
+INFO	2015. 11. 21. 11:24:15.253	Software started
+INFO	2015. 11. 21. 11:26:41.307	Software started
+INFO	2015. 11. 21. 23:36:50.250	Software started
+INFO	2015. 11. 22. 0:08:06.037	Software started
+INFO	2015. 11. 22. 0:10:25.462	Software started
+WARNING	2015. 11. 22. 0:10:35.364	Software terminated
+INFO	2015. 11. 22. 0:10:43.317	Software started
+INFO	2015. 11. 22. 0:13:27.384	Software started
+INFO	2015. 11. 22. 0:13:59.476	Software started
+INFO	2015. 11. 22. 0:14:51.806	Software started
+INFO	2015. 11. 22. 0:15:42.155	Software started
+INFO	2015. 11. 22. 0:16:16.311	Software started
+INFO	2015. 11. 22. 0:23:14.163	Software started
+WARNING	2015. 11. 22. 0:23:32.969	Software terminated
+INFO	2015. 11. 25. 1:44:15.801	Software started
+INFO	2015. 11. 25. 1:45:11.499	Software started
+INFO	2015. 11. 25. 1:45:53.113	Software started
+INFO	2015. 11. 25. 1:46:30.292	Software started
+INFO	2015. 11. 28. 22:36:12.073	Software started
+WARNING	2015. 11. 28. 22:36:37.553	Software terminated
+INFO	2015. 11. 28. 22:38:26.787	Software started
+INFO	2015. 11. 28. 22:38:38.374	Software started
+INFO	2015. 11. 28. 22:41:00.951	Software started
+WARNING	2015. 11. 28. 22:41:05.343	Software terminated
+INFO	2015. 11. 28. 22:41:39.884	Software started
+WARNING	2015. 11. 28. 22:41:44.898	Software terminated
+INFO	2015. 11. 28. 22:43:32.970	Software started
+INFO	2015. 11. 28. 22:49:55.716	Software started
+WARNING	2015. 11. 28. 22:50:16.650	Software terminated
+INFO	2015. 11. 28. 22:59:53.700	Software started
+INFO	2015. 11. 28. 22:59:57.293	Connected to server
+INFO	2015. 11. 28. 22:59:59.101	Playout started
+WARNING	2015. 11. 28. 23:01:14.726	Playout stopped
+ERROR	2015. 11. 28. 23:01:14.730	Disconnected from server
+WARNING	2015. 11. 28. 23:01:14.731	Software terminated
+INFO	2015. 11. 28. 23:22:52.868	Software started
+INFO	2015. 11. 28. 23:23:15.920	Software started
+WARNING	2015. 11. 28. 23:31:07.533	Software terminated
+INFO	2015. 11. 28. 23:47:11.079	Software started
+WARNING	2015. 11. 28. 23:48:11.424	Software terminated
+INFO	2015. 11. 29. 0:03:30.406	Software started
+INFO	2015. 11. 29. 0:03:33.008	Connected to server
+ERROR	2015. 11. 29. 0:03:40.452	Disconnected from server
+WARNING	2015. 11. 29. 0:03:40.453	Software terminated
+INFO	2015. 11. 29. 0:08:09.672	Software started
+INFO	2015. 11. 29. 0:08:11.321	Connected to server
+ERROR	2015. 11. 29. 0:08:43.057	Disconnected from server
+WARNING	2015. 11. 29. 0:08:43.059	Software terminated
+INFO	2015. 11. 29. 0:26:20.391	Software started
+INFO	2015. 11. 29. 0:26:22.401	Connected to server
+INFO	2015. 11. 29. 0:27:24.838	Software started
+INFO	2015. 11. 29. 0:27:26.665	Connected to server
+INFO	2015. 11. 29. 0:34:49.808	Software started
+INFO	2015. 11. 29. 0:34:51.629	Connected to server
+INFO	2015. 11. 29. 0:39:23.331	Software started
+INFO	2015. 11. 29. 0:39:25.420	Connected to server
+INFO	2015. 11. 29. 0:45:25.507	Software started
+INFO	2015. 11. 29. 0:45:26.952	Connected to server
+INFO	2015. 11. 29. 0:49:20.634	Software started
+INFO	2015. 11. 29. 0:49:22.614	Connected to server
+INFO	2015. 11. 29. 0:54:54.017	Software started
+INFO	2015. 11. 29. 0:54:55.839	Connected to server
+INFO	2015. 11. 29. 1:01:39.927	Software started
+INFO	2015. 11. 29. 1:01:41.709	Connected to server
+ERROR	2015. 11. 29. 1:14:19.566	Disconnected from server
+WARNING	2015. 11. 29. 1:14:19.567	Software terminated
+INFO	2015. 11. 29. 12:36:42.845	Software started
+INFO	2015. 11. 29. 12:37:14.515	Software started
+INFO	2015. 11. 29. 12:38:26.522	Software started
+INFO	2015. 11. 29. 16:46:06.901	Software started
+INFO	2015. 11. 29. 16:49:19.887	Software started
+INFO	2015. 11. 29. 17:56:42.267	Software started
+INFO	2015. 11. 29. 17:58:19.373	Software started
+ERROR	2015. 11. 29. 17:58:44.629	Server not avaliable, No connection could be made because the target machine actively refused it 127.0.0.1:5250
+WARNING	2015. 11. 29. 17:58:59.096	Software terminated
+INFO	2015. 11. 29. 18:11:21.959	Software started
+WARNING	2015. 11. 29. 18:12:17.869	Software terminated
+INFO	2015. 11. 29. 18:15:08.835	Software started
+INFO	2015. 11. 29. 18:19:06.027	Software started
+WARNING	2015. 11. 29. 18:20:45.814	Software terminated
+INFO	2015. 11. 29. 18:21:19.337	Software started
+WARNING	2015. 11. 29. 18:21:27.966	Software terminated
+INFO	2015. 11. 29. 18:27:36.316	Software started
+INFO	2015. 11. 29. 18:29:02.507	Software started
+WARNING	2015. 11. 29. 18:34:31.374	Software terminated
+INFO	2015. 11. 30. 17:31:46.690	Software started
+WARNING	2015. 11. 30. 17:32:06.057	Software terminated
+INFO	2015. 11. 30. 17:38:22.253	Software started
+WARNING	2015. 11. 30. 17:38:44.134	Software terminated
+INFO	2015. 11. 30. 17:43:08.874	Software started
+WARNING	2015. 11. 30. 17:43:32.924	Software terminated
+INFO	2015. 11. 30. 17:49:05.168	Software started
+WARNING	2015. 11. 30. 17:49:21.634	Software terminated
+INFO	2015. 11. 30. 17:50:05.047	Software started
+INFO	2015. 11. 30. 18:07:08.984	Software started
+INFO	2015. 11. 30. 18:10:42.253	Software started
+INFO	2015. 11. 30. 18:14:22.053	Software started
+INFO	2015. 11. 30. 18:15:16.480	Software started
+INFO	2015. 11. 30. 18:19:29.527	Software started
+INFO	2015. 11. 30. 18:19:59.083	Software started
+INFO	2015. 11. 30. 18:20:43.436	Software started
+INFO	2015. 11. 30. 18:23:45.566	Software started
+WARNING	2015. 11. 30. 18:24:03.954	Software terminated
+INFO	2015. 11. 30. 18:39:54.189	Software started
+INFO	2015. 12. 1. 1:22:54.489	Software started
+INFO	2015. 12. 1. 1:41:45.721	Software started
+INFO	2015. 12. 1. 1:42:08.761	Software started
+INFO	2015. 12. 1. 1:44:23.357	Software started
+WARNING	2015. 12. 1. 1:44:37.366	Software terminated
+INFO	2015. 12. 1. 1:45:16.703	Software started
+INFO	2015. 12. 1. 1:54:07.381	Software started
+WARNING	2015. 12. 1. 1:54:24.430	Software terminated
+INFO	2015. 12. 1. 2:00:47.703	Software started
+INFO	2015. 12. 1. 2:01:33.739	Software started
+WARNING	2015. 12. 1. 2:01:51.019	Software terminated
+INFO	2015. 12. 1. 16:05:39.052	Software started
+WARNING	2015. 12. 1. 16:06:17.736	Software terminated
+INFO	2015. 12. 2. 13:04:22.447	Software started
+INFO	2015. 12. 2. 13:05:40.966	Software started
+INFO	2015. 12. 2. 13:07:11.719	Software started
+INFO	2015. 12. 2. 13:08:28.257	Software started
+INFO	2015. 12. 2. 13:09:18.576	Software started
+INFO	2015. 12. 2. 13:09:55.756	Software started
+INFO	2015. 12. 2. 13:13:36.917	Software started
+WARNING	2015. 12. 2. 13:16:02.999	Software terminated
+INFO	2015. 12. 2. 13:18:23.242	Software started
+INFO	2015. 12. 2. 13:24:46.403	Software started
+INFO	2015. 12. 2. 13:27:30.016	Software started
+INFO	2015. 12. 2. 13:27:51.991	Software started
+INFO	2015. 12. 2. 13:28:17.548	Software started
+INFO	2015. 12. 2. 13:28:33.583	Software started
+INFO	2015. 12. 2. 13:28:44.947	Software started
+INFO	2015. 12. 2. 13:29:04.943	Software started
+INFO	2015. 12. 2. 13:30:46.464	Software started
+INFO	2015. 12. 2. 13:31:24.123	Software started
+WARNING	2015. 12. 2. 13:31:36.477	Software terminated
+INFO	2015. 12. 2. 13:33:30.791	Software started
+WARNING	2015. 12. 2. 13:34:34.713	Software terminated
+INFO	2015. 12. 2. 13:35:01.041	Software started
+WARNING	2015. 12. 2. 13:35:04.391	Software terminated
+INFO	2015. 12. 2. 13:40:41.046	Software started
+INFO	2015. 12. 2. 13:41:52.049	Software started
+INFO	2015. 12. 2. 13:42:24.081	Software started
+WARNING	2015. 12. 2. 13:44:31.378	Software terminated
+INFO	2015. 12. 2. 13:45:26.785	Software started
+INFO	2015. 12. 2. 13:48:45.079	Software started
+WARNING	2015. 12. 2. 13:48:48.905	Software terminated
+INFO	2015. 12. 2. 19:11:52.694	Software started
+INFO	2015. 12. 2. 19:28:08.593	Software started
+INFO	2015. 12. 2. 19:50:43.931	Software started
+INFO	2015. 12. 2. 20:17:01.057	Software started
+INFO	2015. 12. 2. 20:18:09.636	Software started
+INFO	2015. 12. 2. 20:21:51.697	Software started
+INFO	2015. 12. 2. 20:24:06.159	Software started
+INFO	2015. 12. 2. 20:43:54.970	Software started
+INFO	2015. 12. 2. 20:45:20.767	Software started
+INFO	2015. 12. 2. 20:47:56.418	Software started
+INFO	2015. 12. 2. 20:50:10.888	Software started
+INFO	2015. 12. 2. 20:52:20.090	Software started
+INFO	2015. 12. 3. 1:33:59.811	Software started
+INFO	2015. 12. 3. 12:20:27.776	Software started
+ERROR	2015. 12. 3. 12:20:32.206	Server not avaliable, No connection could be made because the target machine actively refused it 127.0.0.1:5250
+INFO	2015. 12. 3. 12:21:15.802	Connected to server
+INFO	2015. 12. 3. 12:21:17.832	Playout started
+WARNING	2015. 12. 3. 12:21:20.848	Playout stopped
+ERROR	2015. 12. 3. 12:21:20.850	Disconnected from server
+INFO	2015. 12. 3. 12:21:23.905	Connected to server
+INFO	2015. 12. 3. 12:21:25.743	Playout started
+INFO	2015. 12. 3. 12:23:14.356	Software started
+WARNING	2015. 12. 3. 12:23:28.274	Software terminated
+INFO	2015. 12. 5. 0:08:42.226	Software started
+WARNING	2015. 12. 5. 0:09:41.078	Software terminated
+INFO	2015. 12. 5. 0:11:43.968	Software started
+INFO	2015. 12. 5. 0:13:35.378	Software started
+INFO	2015. 12. 5. 0:15:34.953	Software started
+INFO	2015. 12. 5. 0:17:31.053	Software started
+WARNING	2015. 12. 5. 0:18:16.850	Software terminated
+INFO	2015. 12. 5. 0:34:06.977	Software started
+INFO	2015. 12. 5. 0:35:58.377	Software started
+INFO	2015. 12. 5. 0:36:12.744	Software started
+WARNING	2015. 12. 5. 0:36:41.955	Software terminated
+INFO	2015. 12. 5. 0:37:50.798	Software started
+INFO	2015. 12. 5. 0:38:27.566	Software started
+INFO	2015. 12. 5. 0:39:21.001	Software started
+WARNING	2015. 12. 5. 0:39:42.515	Software terminated
+INFO	2015. 12. 5. 0:40:01.044	Software started
+INFO	2015. 12. 5. 0:42:21.914	Software started
+INFO	2015. 12. 5. 0:43:54.422	Software started
+INFO	2015. 12. 5. 0:47:30.390	Software started
+INFO	2015. 12. 5. 0:48:31.899	Software started
+INFO	2015. 12. 5. 0:48:40.236	Software started
+INFO	2015. 12. 5. 0:53:21.767	Software started
+INFO	2015. 12. 5. 0:54:46.772	Software started
+INFO	2015. 12. 5. 1:04:58.441	Software started
+INFO	2015. 12. 5. 1:06:19.750	Software started
+INFO	2015. 12. 5. 1:08:12.644	Software started
+INFO	2015. 12. 5. 1:11:04.117	Software started
+INFO	2015. 12. 5. 1:13:38.548	Software started
+INFO	2015. 12. 5. 1:18:03.375	Software started
+INFO	2015. 12. 5. 1:22:36.597	Software started
+INFO	2015. 12. 5. 1:23:16.044	Software started
+INFO	2015. 12. 5. 1:30:08.825	Software started
+INFO	2015. 12. 5. 1:35:47.710	Software started
+INFO	2015. 12. 5. 1:41:49.158	Software started
+INFO	2015. 12. 5. 1:44:54.400	Software started
+INFO	2015. 12. 5. 1:46:25.965	Software started
+INFO	2015. 12. 5. 1:54:10.086	Software started
+INFO	2015. 12. 5. 1:59:30.077	Software started
+INFO	2015. 12. 5. 2:03:06.122	Software started
+INFO	2015. 12. 5. 2:07:05.855	Software started
+INFO	2015. 12. 5. 2:09:52.036	Software started
+INFO	2015. 12. 5. 2:11:01.032	Software started
+INFO	2015. 12. 5. 20:39:09.395	Software started
+INFO	2015. 12. 5. 20:43:35.753	Software started
+INFO	2015. 12. 5. 20:45:02.668	Software started
+INFO	2015. 12. 5. 20:48:11.483	Software started
+INFO	2015. 12. 5. 20:49:06.623	Software started
+INFO	2015. 12. 5. 20:54:31.609	Software started
+INFO	2015. 12. 5. 20:59:14.610	Software started
+INFO	2015. 12. 5. 21:00:37.918	Software started
+INFO	2015. 12. 5. 21:04:57.438	Software started
+INFO	2015. 12. 5. 21:05:27.320	Software started
+INFO	2015. 12. 5. 21:12:12.909	Software started
+INFO	2015. 12. 5. 21:15:16.171	Software started
+INFO	2015. 12. 5. 21:16:00.897	Software started
+INFO	2015. 12. 5. 21:24:30.327	Software started
+INFO	2015. 12. 5. 21:28:38.622	Software started
+INFO	2015. 12. 5. 21:29:29.715	Software started
+INFO	2015. 12. 5. 21:30:48.810	Software started
+WARNING	2015. 12. 5. 21:31:04.738	Software terminated
+INFO	2015. 12. 5. 21:31:20.389	Software started
+INFO	2015. 12. 5. 21:35:13.194	Software started
+INFO	2015. 12. 5. 21:36:29.264	Software started
+INFO	2015. 12. 5. 21:39:48.277	Software started
+INFO	2015. 12. 5. 21:40:34.779	Software started
+INFO	2015. 12. 5. 21:44:01.320	Software started
+INFO	2015. 12. 5. 21:44:46.566	Software started
+INFO	2015. 12. 5. 21:45:27.163	Software started
+INFO	2015. 12. 5. 21:47:31.323	Software started
+INFO	2015. 12. 5. 21:48:33.915	Software started
+INFO	2015. 12. 5. 22:55:21.467	Software started
+INFO	2015. 12. 5. 23:23:13.212	Software started
+INFO	2015. 12. 5. 23:24:09.395	Software started
+INFO	2015. 12. 5. 23:25:01.618	Software started
+INFO	2015. 12. 5. 23:32:52.688	Software started
+INFO	2015. 12. 5. 23:39:35.710	Software started
+INFO	2015. 12. 5. 23:46:05.209	Software started
+INFO	2015. 12. 5. 23:51:53.562	Software started
+INFO	2015. 12. 5. 23:52:47.292	Software started
+INFO	2015. 12. 5. 23:56:20.290	Software started
+INFO	2015. 12. 5. 23:58:05.422	Software started
+INFO	2015. 12. 5. 23:58:35.163	Connected to server
+INFO	2015. 12. 5. 23:58:36.373	Playout started
+INFO	2015. 12. 6. 0:02:19.676	Software started
+INFO	2015. 12. 6. 0:04:42.866	Software started
+INFO	2015. 12. 6. 0:04:53.850	Connected to server
+INFO	2015. 12. 6. 0:04:56.285	Playout started
+WARNING	2015. 12. 6. 0:17:47.486	Playout stopped
+ERROR	2015. 12. 6. 0:17:47.488	Disconnected from server
+INFO	2015. 12. 6. 0:26:58.652	Software started
+INFO	2015. 12. 6. 0:27:03.170	Playlist updated from database
+WARNING	2015. 12. 6. 0:27:31.649	Software terminated
+INFO	2015. 12. 6. 0:28:08.411	Software started
+INFO	2015. 12. 6. 0:28:12.887	Playlist updated from database
+WARNING	2015. 12. 6. 0:28:20.662	Software terminated
+INFO	2015. 12. 6. 0:29:24.903	Software started
+INFO	2015. 12. 6. 0:29:29.895	Playlist updated from database
+INFO	2015. 12. 6. 0:30:12.619	Software started
+INFO	2015. 12. 6. 0:30:18.316	Playlist updated from database
+INFO	2015. 12. 6. 0:37:37.953	Software started
+INFO	2015. 12. 6. 0:37:42.845	Playlist updated from database
+INFO	2015. 12. 6. 0:39:04.521	Playlist updated from database
+INFO	2015. 12. 6. 0:40:03.919	Software started
+INFO	2015. 12. 6. 0:40:09.762	Playlist updated from database
+INFO	2015. 12. 6. 0:40:48.994	Content generated for: 2015. 11. 30. 0:00:00 - 2015. 12. 06. 23:59:59
+INFO	2015. 12. 6. 0:41:10.126	Playlist updated from database
+INFO	2015. 12. 6. 0:50:41.187	Software started
+INFO	2015. 12. 6. 0:50:45.862	Playlist updated from database
+INFO	2015. 12. 8. 14:07:35.408	Software started
+INFO	2015. 12. 8. 14:07:47.963	Playlist updated from database
+WARNING	2015. 12. 8. 14:08:31.984	Software terminated
+INFO	2015. 12. 8. 15:08:37.717	Software started
+INFO	2015. 12. 8. 15:08:42.982	Playlist updated from database
+INFO	2015. 12. 8. 15:09:43.047	Playlist updated from database
+INFO	2015. 12. 8. 15:10:43.105	Playlist updated from database
+INFO	2015. 12. 8. 15:11:43.168	Playlist updated from database
+INFO	2015. 12. 8. 15:12:43.233	Playlist updated from database
+INFO	2015. 12. 8. 15:13:43.306	Playlist updated from database
+INFO	2015. 12. 8. 15:14:43.353	Playlist updated from database
+INFO	2015. 12. 8. 15:15:43.407	Playlist updated from database
+INFO	2015. 12. 8. 15:16:43.457	Playlist updated from database
+INFO	2015. 12. 8. 15:17:43.509	Playlist updated from database
+INFO	2015. 12. 8. 15:18:43.562	Playlist updated from database
+INFO	2015. 12. 8. 15:19:43.608	Playlist updated from database
+INFO	2015. 12. 8. 15:20:43.665	Playlist updated from database
+INFO	2015. 12. 8. 15:21:43.707	Playlist updated from database
+INFO	2015. 12. 8. 15:22:43.747	Playlist updated from database
+INFO	2015. 12. 8. 15:23:43.792	Playlist updated from database
+INFO	2015. 12. 8. 15:24:43.833	Playlist updated from database
+INFO	2015. 12. 8. 15:25:43.880	Playlist updated from database
+INFO	2015. 12. 8. 15:26:43.920	Playlist updated from database
+INFO	2015. 12. 8. 15:27:43.959	Playlist updated from database
+INFO	2015. 12. 8. 15:28:44.009	Playlist updated from database
+INFO	2015. 12. 8. 15:29:44.049	Playlist updated from database
+INFO	2015. 12. 8. 15:30:44.120	Playlist updated from database
+INFO	2015. 12. 8. 15:31:44.167	Playlist updated from database
+INFO	2015. 12. 8. 15:32:44.228	Playlist updated from database
+INFO	2015. 12. 8. 15:33:44.275	Playlist updated from database
+INFO	2015. 12. 8. 15:34:44.315	Playlist updated from database
+INFO	2015. 12. 8. 15:35:44.357	Playlist updated from database
+INFO	2015. 12. 8. 15:36:44.412	Playlist updated from database
+INFO	2015. 12. 8. 15:37:44.453	Playlist updated from database
+INFO	2015. 12. 8. 15:38:44.494	Playlist updated from database
+INFO	2015. 12. 8. 15:39:44.534	Playlist updated from database
+INFO	2015. 12. 8. 15:40:44.579	Playlist updated from database
+INFO	2015. 12. 8. 15:41:44.635	Playlist updated from database
+INFO	2015. 12. 8. 15:42:44.700	Playlist updated from database
+INFO	2015. 12. 8. 15:43:44.744	Playlist updated from database
+INFO	2015. 12. 8. 15:44:44.790	Playlist updated from database
+INFO	2015. 12. 8. 15:45:44.846	Playlist updated from database
+INFO	2015. 12. 8. 15:46:44.901	Playlist updated from database
+INFO	2015. 12. 8. 15:47:44.966	Playlist updated from database
+INFO	2015. 12. 8. 15:48:45.015	Playlist updated from database
+INFO	2015. 12. 8. 15:49:45.062	Playlist updated from database
+INFO	2015. 12. 8. 16:21:35.885	Software started
+INFO	2015. 12. 8. 16:21:40.383	Playlist updated from database
+INFO	2015. 12. 8. 16:22:40.697	Playlist updated from database
+INFO	2015. 12. 8. 16:22:52.109	Content generated for: 2015. 12. 07. 0:00:00 - 2015. 12. 13. 23:59:59
+INFO	2015. 12. 8. 16:23:52.720	Playlist updated from database
+INFO	2015. 12. 8. 16:24:28.537	Connected to server
+INFO	2015. 12. 8. 16:24:29.912	Playout started
+INFO	2015. 12. 8. 16:25:15.008	Software started
+INFO	2015. 12. 8. 16:25:20.266	Playlist updated from database
+INFO	2015. 12. 8. 16:25:26.637	Connected to server
+INFO	2015. 12. 8. 16:25:27.321	Playout started
+INFO	2015. 12. 8. 16:26:20.339	Playlist updated from database
+INFO	2015. 12. 8. 16:27:20.392	Playlist updated from database
+INFO	2015. 12. 8. 16:28:20.435	Playlist updated from database
+INFO	2015. 12. 8. 16:29:20.498	Playlist updated from database
+INFO	2015. 12. 8. 16:30:20.550	Playlist updated from database
+INFO	2015. 12. 8. 16:31:20.608	Playlist updated from database
+INFO	2015. 12. 8. 16:32:20.667	Playlist updated from database
+INFO	2015. 12. 8. 16:33:20.709	Playlist updated from database
+INFO	2015. 12. 8. 16:34:20.775	Playlist updated from database
+INFO	2015. 12. 8. 16:35:20.827	Playlist updated from database
+INFO	2015. 12. 8. 16:36:20.895	Playlist updated from database
+INFO	2015. 12. 8. 16:37:20.966	Playlist updated from database
+INFO	2015. 12. 8. 16:38:21.015	Playlist updated from database
+INFO	2015. 12. 8. 16:39:21.064	Playlist updated from database
+INFO	2015. 12. 8. 16:40:21.120	Playlist updated from database
+INFO	2015. 12. 8. 16:41:21.180	Playlist updated from database
+INFO	2015. 12. 8. 16:42:21.261	Playlist updated from database
+INFO	2015. 12. 8. 16:43:50.250	Software started
+INFO	2015. 12. 8. 16:43:59.105	Playlist updated from database
+INFO	2015. 12. 8. 16:44:59.197	Playlist updated from database
+INFO	2015. 12. 8. 16:45:59.294	Playlist updated from database
+INFO	2015. 12. 8. 16:46:59.352	Playlist updated from database
+INFO	2015. 12. 8. 16:47:59.401	Playlist updated from database
+INFO	2015. 12. 8. 16:48:59.447	Playlist updated from database
+INFO	2015. 12. 8. 16:49:59.501	Playlist updated from database
+INFO	2015. 12. 8. 16:50:59.564	Playlist updated from database
+INFO	2015. 12. 8. 16:51:59.621	Playlist updated from database
+INFO	2015. 12. 8. 16:52:59.670	Playlist updated from database
+INFO	2015. 12. 8. 16:53:59.742	Playlist updated from database
+INFO	2015. 12. 8. 16:54:59.807	Playlist updated from database
+INFO	2015. 12. 8. 16:55:59.864	Playlist updated from database
+INFO	2015. 12. 8. 16:56:59.964	Playlist updated from database
+INFO	2015. 12. 8. 16:58:00.044	Playlist updated from database
+INFO	2015. 12. 8. 16:59:00.093	Playlist updated from database
+INFO	2015. 12. 8. 17:00:00.152	Playlist updated from database
+INFO	2015. 12. 8. 17:01:00.225	Playlist updated from database
+INFO	2015. 12. 8. 17:02:00.276	Playlist updated from database
+INFO	2015. 12. 8. 17:03:00.321	Playlist updated from database
+INFO	2015. 12. 8. 17:04:00.361	Playlist updated from database
+INFO	2015. 12. 8. 17:05:00.430	Playlist updated from database
+INFO	2015. 12. 8. 17:06:00.486	Playlist updated from database
+INFO	2015. 12. 8. 17:07:00.558	Playlist updated from database
+INFO	2015. 12. 8. 17:08:00.632	Playlist updated from database
+INFO	2015. 12. 8. 17:09:00.692	Playlist updated from database
+INFO	2015. 12. 8. 17:10:00.776	Playlist updated from database
+INFO	2015. 12. 8. 17:11:00.825	Playlist updated from database
+INFO	2015. 12. 8. 17:12:00.872	Playlist updated from database
+INFO	2015. 12. 8. 17:13:00.934	Playlist updated from database
+INFO	2015. 12. 8. 17:14:00.986	Playlist updated from database
+INFO	2015. 12. 8. 17:15:01.042	Playlist updated from database
+INFO	2015. 12. 8. 17:16:01.091	Playlist updated from database
+INFO	2015. 12. 8. 17:17:01.159	Playlist updated from database
+INFO	2015. 12. 8. 17:18:01.197	Playlist updated from database
+INFO	2015. 12. 8. 17:19:01.309	Playlist updated from database
+INFO	2015. 12. 8. 17:20:01.364	Playlist updated from database
+INFO	2015. 12. 8. 17:21:01.437	Playlist updated from database
+INFO	2015. 12. 8. 17:22:01.494	Playlist updated from database
+INFO	2015. 12. 8. 17:23:01.551	Playlist updated from database
+INFO	2015. 12. 8. 17:24:01.621	Playlist updated from database
+INFO	2015. 12. 8. 17:25:01.681	Playlist updated from database
+INFO	2015. 12. 8. 17:26:01.768	Playlist updated from database
+INFO	2015. 12. 8. 17:27:01.836	Playlist updated from database
+INFO	2015. 12. 8. 17:28:01.887	Playlist updated from database
+INFO	2015. 12. 8. 17:29:01.949	Playlist updated from database
+INFO	2015. 12. 8. 17:30:02.018	Playlist updated from database
+INFO	2015. 12. 8. 17:31:02.077	Playlist updated from database
+INFO	2015. 12. 8. 17:32:02.127	Playlist updated from database
+INFO	2015. 12. 8. 17:33:02.185	Playlist updated from database
+INFO	2015. 12. 8. 17:34:02.244	Playlist updated from database
+INFO	2015. 12. 8. 17:35:02.306	Playlist updated from database
+INFO	2015. 12. 8. 17:36:02.371	Playlist updated from database
+INFO	2015. 12. 8. 17:37:02.418	Playlist updated from database
+INFO	2015. 12. 8. 17:38:02.470	Playlist updated from database
+INFO	2015. 12. 8. 17:39:02.517	Playlist updated from database
+INFO	2015. 12. 8. 17:40:02.566	Playlist updated from database
+INFO	2015. 12. 8. 17:41:02.615	Playlist updated from database
+INFO	2015. 12. 8. 17:42:02.685	Playlist updated from database
+INFO	2015. 12. 8. 17:43:02.731	Playlist updated from database
+INFO	2015. 12. 8. 17:44:02.783	Playlist updated from database
+INFO	2015. 12. 8. 17:45:02.830	Playlist updated from database
+INFO	2015. 12. 8. 17:46:02.894	Playlist updated from database
+INFO	2015. 12. 8. 17:47:02.956	Playlist updated from database
+INFO	2015. 12. 8. 17:48:03.068	Playlist updated from database
+INFO	2015. 12. 8. 17:49:03.132	Playlist updated from database
+INFO	2015. 12. 8. 17:49:13.651	Connected to server
+INFO	2015. 12. 8. 17:49:27.958	Playout started
+WARNING	2015. 12. 8. 17:49:58.879	Playout stopped
+ERROR	2015. 12. 8. 17:49:58.885	Disconnected from server
+INFO	2015. 12. 8. 17:50:03.180	Playlist updated from database
+INFO	2015. 12. 8. 17:51:03.222	Playlist updated from database
+INFO	2015. 12. 8. 17:52:03.261	Playlist updated from database
+INFO	2015. 12. 8. 17:54:19.351	Software started
+INFO	2015. 12. 8. 17:54:25.714	Playlist updated from database
+INFO	2015. 12. 8. 17:54:59.418	Content generated for: 2015. 12. 07. 0:00:00 - 2015. 12. 13. 23:59:59
+INFO	2015. 12. 8. 17:55:26.198	Playlist updated from database
+INFO	2015. 12. 8. 17:56:26.247	Playlist updated from database
+INFO	2015. 12. 8. 17:57:26.479	Playlist updated from database
+INFO	2015. 12. 8. 20:56:30.301	Software started
+INFO	2015. 12. 8. 20:56:34.722	Playlist updated from database
+INFO	2015. 12. 8. 20:57:14.946	Content generated for: 2015. 12. 07. 0:00:00 - 2015. 12. 13. 23:59:59
+INFO	2015. 12. 8. 20:57:34.846	Playlist updated from database
+INFO	2015. 12. 8. 20:58:25.744	Software started
+INFO	2015. 12. 8. 21:00:13.890	Software started
+INFO	2015. 12. 8. 21:00:18.318	Playlist updated from database
+INFO	2015. 12. 8. 21:00:49.838	Content generated for: 2015. 12. 07. 0:00:00 - 2015. 12. 13. 23:59:59
+INFO	2015. 12. 8. 21:01:18.707	Playlist updated from database
+INFO	2015. 12. 8. 21:02:18.748	Playlist updated from database
+INFO	2015. 12. 8. 21:03:18.797	Playlist updated from database
+INFO	2015. 12. 8. 21:03:30.245	Connected to server
+INFO	2015. 12. 8. 21:03:39.780	Playout started
+WARNING	2015. 12. 8. 21:03:55.788	Playout stopped
+ERROR	2015. 12. 8. 21:03:55.790	Disconnected from server
+INFO	2015. 12. 8. 21:04:18.876	Playlist updated from database
+INFO	2015. 12. 8. 21:05:18.919	Playlist updated from database
+INFO	2015. 12. 8. 21:05:58.708	Connected to server
+ERROR	2015. 12. 8. 21:06:02.196	Disconnected from server
+INFO	2015. 12. 8. 21:06:18.964	Playlist updated from database
+INFO	2015. 12. 8. 21:06:28.907	Connected to server
+INFO	2015. 12. 8. 21:06:35.848	Playout started
+WARNING	2015. 12. 8. 21:07:10.508	Playout stopped
+ERROR	2015. 12. 8. 21:07:10.511	Disconnected from server
+INFO	2015. 12. 8. 21:07:19.016	Playlist updated from database
+INFO	2015. 12. 8. 21:08:19.059	Playlist updated from database
+INFO	2015. 12. 8. 21:09:19.097	Playlist updated from database
+INFO	2015. 12. 8. 21:10:19.147	Playlist updated from database
+INFO	2015. 12. 8. 21:11:19.188	Playlist updated from database
+INFO	2015. 12. 8. 21:12:19.246	Playlist updated from database
+INFO	2015. 12. 8. 21:13:19.287	Playlist updated from database
+INFO	2015. 12. 8. 21:14:19.325	Playlist updated from database
+INFO	2015. 12. 8. 21:15:19.370	Playlist updated from database
+INFO	2015. 12. 8. 21:16:19.457	Playlist updated from database
+INFO	2015. 12. 8. 21:17:19.511	Playlist updated from database
+INFO	2015. 12. 8. 21:18:19.556	Playlist updated from database
+INFO	2015. 12. 8. 21:19:19.600	Playlist updated from database
+INFO	2015. 12. 8. 21:20:19.682	Playlist updated from database
+INFO	2015. 12. 8. 21:25:58.105	Software started
+INFO	2015. 12. 8. 21:26:02.560	Playlist updated from database
+INFO	2015. 12. 8. 21:27:05.981	Software started
+INFO	2015. 12. 8. 21:27:09.730	Playlist updated from database
+INFO	2015. 12. 8. 21:30:57.509	Software started
+INFO	2015. 12. 8. 21:31:03.608	Playlist updated from database
+WARNING	2015. 12. 8. 21:31:20.412	Software terminated
+INFO	2015. 12. 8. 21:33:32.934	Software started
+INFO	2015. 12. 8. 21:33:37.466	Playlist updated from database
+WARNING	2015. 12. 8. 21:33:39.201	Software terminated
+INFO	2015. 12. 8. 21:35:14.105	Software started
+INFO	2015. 12. 8. 21:35:18.169	Playlist updated from database
+WARNING	2015. 12. 8. 21:35:18.492	Software terminated
+INFO	2015. 12. 8. 21:35:25.202	Software started
+INFO	2015. 12. 8. 21:36:22.505	Software started
+WARNING	2015. 12. 8. 21:36:25.849	Software terminated
+INFO	2015. 12. 8. 21:36:33.524	Software started
+WARNING	2015. 12. 8. 21:36:36.569	Software terminated
+INFO	2015. 12. 8. 21:40:41.000	Software started
+WARNING	2015. 12. 8. 21:40:45.440	Software terminated
+INFO	2015. 12. 8. 21:41:25.431	Software started
+ERROR	2015. 12. 8. 21:41:29.830	Server not avaliable, No connection could be made because the target machine actively refused it 127.0.0.1:5250
+INFO	2015. 12. 8. 21:41:30.498	Playlist updated from database
+WARNING	2015. 12. 8. 21:41:33.867	Software terminated
+INFO	2015. 12. 8. 21:42:29.687	Software started
+INFO	2015. 12. 8. 21:42:33.569	Playlist updated from database
+WARNING	2015. 12. 8. 21:42:33.985	Software terminated
+INFO	2015. 12. 8. 21:44:41.314	Software started
+INFO	2015. 12. 8. 21:44:45.402	Playlist updated from database
+WARNING	2015. 12. 8. 21:44:47.718	Software terminated
+INFO	2015. 12. 8. 21:46:12.450	Software started
+WARNING	2015. 12. 8. 21:46:16.251	Software terminated
+INFO	2015. 12. 8. 21:46:21.915	Software started
+INFO	2015. 12. 8. 21:46:26.382	Playlist updated from database
+INFO	2015. 12. 8. 21:46:46.632	Connected to server
+INFO	2015. 12. 8. 21:46:52.159	Playout started
+WARNING	2015. 12. 8. 21:46:55.297	Playout stopped
+ERROR	2015. 12. 8. 21:46:57.486	Disconnected from server
+WARNING	2015. 12. 8. 21:46:57.487	Software terminated
+INFO	2015. 12. 8. 21:53:09.093	Software started
+INFO	2015. 12. 8. 21:53:13.195	Playlist updated from database
+ERROR	2015. 12. 8. 21:53:14.795	Server not avaliable, No connection could be made because the target machine actively refused it 127.0.0.1:5250
+WARNING	2015. 12. 8. 21:53:20.655	Software terminated
+INFO	2015. 12. 8. 22:01:11.721	Software started
+INFO	2015. 12. 8. 22:01:16.465	Playlist updated from database
+INFO	2015. 12. 8. 22:02:16.516	Playlist updated from database
+INFO	2015. 12. 8. 22:03:16.561	Playlist updated from database
+INFO	2015. 12. 8. 22:04:16.611	Playlist updated from database
+INFO	2015. 12. 8. 22:05:16.656	Playlist updated from database
+INFO	2015. 12. 8. 22:06:16.694	Playlist updated from database
+INFO	2015. 12. 8. 22:07:16.764	Playlist updated from database
+INFO	2015. 12. 8. 22:08:16.820	Playlist updated from database
+INFO	2015. 12. 8. 22:08:58.236	Connected to server
+INFO	2015. 12. 8. 22:09:16.899	Playlist updated from database
+INFO	2015. 12. 8. 22:10:16.945	Playlist updated from database
+INFO	2015. 12. 8. 22:11:16.997	Playlist updated from database
+INFO	2015. 12. 8. 22:12:17.048	Playlist updated from database
+INFO	2015. 12. 8. 22:13:17.103	Playlist updated from database
+INFO	2015. 12. 8. 22:14:17.169	Playlist updated from database
+INFO	2015. 12. 8. 22:15:17.229	Playlist updated from database
+INFO	2015. 12. 8. 22:16:17.269	Playlist updated from database
+INFO	2015. 12. 8. 22:17:17.322	Playlist updated from database
+INFO	2015. 12. 8. 22:18:17.379	Playlist updated from database
+INFO	2015. 12. 8. 22:19:17.427	Playlist updated from database
+INFO	2015. 12. 8. 22:20:17.489	Playlist updated from database
+INFO	2015. 12. 8. 22:21:17.537	Playlist updated from database
+INFO	2015. 12. 8. 22:22:17.598	Playlist updated from database
+INFO	2015. 12. 8. 22:23:17.876	Playlist updated from database
+INFO	2015. 12. 8. 22:24:17.949	Playlist updated from database
+INFO	2015. 12. 8. 22:25:18.025	Playlist updated from database
+INFO	2015. 12. 8. 22:26:18.111	Playlist updated from database
+INFO	2015. 12. 8. 22:27:18.202	Playlist updated from database
+INFO	2015. 12. 8. 22:28:18.274	Playlist updated from database
+INFO	2015. 12. 8. 22:29:18.342	Playlist updated from database
+INFO	2015. 12. 8. 22:30:18.405	Playlist updated from database
+INFO	2015. 12. 8. 22:31:18.458	Playlist updated from database
+INFO	2015. 12. 8. 22:32:18.554	Playlist updated from database
+INFO	2015. 12. 8. 22:33:18.621	Playlist updated from database
+INFO	2015. 12. 8. 22:34:18.683	Playlist updated from database
+INFO	2015. 12. 8. 22:35:18.735	Playlist updated from database
+INFO	2015. 12. 8. 22:36:18.777	Playlist updated from database
+INFO	2015. 12. 8. 22:37:18.907	Playlist updated from database
+INFO	2015. 12. 8. 22:38:18.981	Playlist updated from database
+INFO	2015. 12. 8. 22:39:19.031	Playlist updated from database
+INFO	2015. 12. 8. 22:40:19.087	Playlist updated from database
+INFO	2015. 12. 8. 22:41:19.136	Playlist updated from database
+INFO	2015. 12. 8. 22:42:19.196	Playlist updated from database
+INFO	2015. 12. 8. 22:43:19.261	Playlist updated from database
+INFO	2015. 12. 8. 22:44:19.311	Playlist updated from database
+INFO	2015. 12. 8. 22:45:19.369	Playlist updated from database
+INFO	2015. 12. 8. 22:46:19.427	Playlist updated from database
+INFO	2015. 12. 8. 22:47:19.503	Playlist updated from database
+INFO	2015. 12. 8. 22:48:19.550	Playlist updated from database
+INFO	2015. 12. 8. 22:49:19.619	Playlist updated from database
+INFO	2015. 12. 8. 22:50:19.677	Playlist updated from database
+INFO	2015. 12. 8. 22:51:19.775	Playlist updated from database
+INFO	2015. 12. 8. 22:52:19.820	Playlist updated from database
+INFO	2015. 12. 8. 22:53:19.880	Playlist updated from database
+INFO	2015. 12. 8. 22:54:19.925	Playlist updated from database
+INFO	2015. 12. 8. 22:55:19.978	Playlist updated from database
+INFO	2015. 12. 8. 22:56:20.025	Playlist updated from database
+INFO	2015. 12. 8. 22:57:20.116	Playlist updated from database
+INFO	2015. 12. 8. 22:58:20.160	Playlist updated from database
+INFO	2015. 12. 8. 22:59:20.216	Playlist updated from database
+INFO	2015. 12. 8. 23:00:20.267	Playlist updated from database
+INFO	2015. 12. 8. 23:01:20.316	Playlist updated from database
+INFO	2015. 12. 8. 23:02:20.368	Playlist updated from database
+INFO	2015. 12. 8. 23:03:20.427	Playlist updated from database
+INFO	2015. 12. 8. 23:04:20.492	Playlist updated from database
+INFO	2015. 12. 8. 23:05:20.542	Playlist updated from database
+INFO	2015. 12. 8. 23:06:20.592	Playlist updated from database
+INFO	2015. 12. 8. 23:07:20.652	Playlist updated from database
+INFO	2015. 12. 8. 23:08:20.710	Playlist updated from database
+INFO	2015. 12. 8. 23:09:20.779	Playlist updated from database
+INFO	2015. 12. 8. 23:10:20.878	Playlist updated from database
+INFO	2015. 12. 8. 23:11:20.959	Playlist updated from database
+INFO	2015. 12. 8. 23:12:21.057	Playlist updated from database
+INFO	2015. 12. 8. 23:13:21.134	Playlist updated from database
+INFO	2015. 12. 8. 23:14:21.212	Playlist updated from database
+INFO	2015. 12. 8. 23:15:21.292	Playlist updated from database
+INFO	2015. 12. 8. 23:16:21.351	Playlist updated from database
+INFO	2015. 12. 8. 23:17:21.416	Playlist updated from database
+INFO	2015. 12. 8. 23:18:21.485	Playlist updated from database
+INFO	2015. 12. 8. 23:19:21.562	Playlist updated from database
+INFO	2015. 12. 8. 23:20:21.642	Playlist updated from database
+INFO	2015. 12. 8. 23:21:21.730	Playlist updated from database
+INFO	2015. 12. 8. 23:22:21.787	Playlist updated from database
+INFO	2015. 12. 8. 23:23:21.856	Playlist updated from database
+INFO	2015. 12. 8. 23:24:21.933	Playlist updated from database
+INFO	2015. 12. 8. 23:25:22.001	Playlist updated from database
+INFO	2015. 12. 8. 23:26:22.082	Playlist updated from database
+INFO	2015. 12. 8. 23:27:22.147	Playlist updated from database
+INFO	2015. 12. 8. 23:28:22.226	Playlist updated from database
+INFO	2015. 12. 8. 23:29:22.287	Playlist updated from database
+INFO	2015. 12. 8. 23:30:22.344	Playlist updated from database
+INFO	2015. 12. 8. 23:31:22.396	Playlist updated from database
+INFO	2015. 12. 8. 23:32:22.444	Playlist updated from database
+INFO	2015. 12. 8. 23:33:22.499	Playlist updated from database
+INFO	2015. 12. 8. 23:34:22.548	Playlist updated from database
+INFO	2015. 12. 8. 23:35:22.595	Playlist updated from database
+INFO	2015. 12. 8. 23:36:22.653	Playlist updated from database
+INFO	2015. 12. 8. 23:37:22.698	Playlist updated from database
+INFO	2015. 12. 8. 23:38:22.762	Playlist updated from database
+INFO	2015. 12. 8. 23:39:22.843	Playlist updated from database
+INFO	2015. 12. 8. 23:40:22.896	Playlist updated from database
+INFO	2015. 12. 8. 23:41:22.943	Playlist updated from database
+INFO	2015. 12. 8. 23:42:22.985	Playlist updated from database
+INFO	2015. 12. 8. 23:43:23.040	Playlist updated from database
+INFO	2015. 12. 8. 23:44:23.119	Playlist updated from database
+INFO	2015. 12. 8. 23:45:23.185	Playlist updated from database
+INFO	2015. 12. 8. 23:46:23.259	Playlist updated from database
+INFO	2015. 12. 8. 23:47:23.314	Playlist updated from database
+INFO	2015. 12. 8. 23:48:23.382	Playlist updated from database
+INFO	2015. 12. 8. 23:49:23.496	Playlist updated from database
+INFO	2015. 12. 8. 23:50:23.562	Playlist updated from database
+INFO	2015. 12. 8. 23:51:23.729	Playlist updated from database
+INFO	2015. 12. 8. 23:52:23.855	Playlist updated from database
+INFO	2015. 12. 8. 23:53:23.947	Playlist updated from database
+INFO	2015. 12. 8. 23:54:24.076	Playlist updated from database
+INFO	2015. 12. 8. 23:55:24.138	Playlist updated from database
+INFO	2015. 12. 8. 23:56:24.227	Playlist updated from database
+INFO	2015. 12. 8. 23:57:24.287	Playlist updated from database
+INFO	2015. 12. 8. 23:58:24.363	Playlist updated from database
+INFO	2015. 12. 8. 23:59:24.429	Playlist updated from database
+INFO	2015. 12. 9. 0:00:24.508	Playlist updated from database
+INFO	2015. 12. 9. 0:01:24.594	Playlist updated from database
+INFO	2015. 12. 9. 0:02:24.644	Playlist updated from database
+INFO	2015. 12. 9. 0:03:24.712	Playlist updated from database
+INFO	2015. 12. 9. 0:04:24.780	Playlist updated from database
+INFO	2015. 12. 9. 0:05:24.849	Playlist updated from database
+INFO	2015. 12. 9. 0:06:24.918	Playlist updated from database
+INFO	2015. 12. 9. 0:07:25.008	Playlist updated from database
+INFO	2015. 12. 9. 0:08:25.098	Playlist updated from database
+INFO	2015. 12. 9. 0:09:25.238	Playlist updated from database
+INFO	2015. 12. 9. 0:10:25.342	Playlist updated from database
+INFO	2015. 12. 9. 0:11:25.398	Playlist updated from database
+INFO	2015. 12. 9. 0:12:25.459	Playlist updated from database
+INFO	2015. 12. 9. 0:13:25.512	Playlist updated from database
+INFO	2015. 12. 9. 0:14:25.593	Playlist updated from database
+INFO	2015. 12. 9. 0:15:25.676	Playlist updated from database
+INFO	2015. 12. 9. 0:16:25.769	Playlist updated from database
+INFO	2015. 12. 9. 0:17:25.826	Playlist updated from database
+INFO	2015. 12. 9. 0:18:25.964	Playlist updated from database
+INFO	2015. 12. 9. 0:19:26.038	Playlist updated from database
+INFO	2015. 12. 9. 0:20:26.196	Playlist updated from database
+INFO	2015. 12. 9. 0:21:26.272	Playlist updated from database
+INFO	2015. 12. 9. 0:22:26.326	Playlist updated from database
+INFO	2015. 12. 9. 0:23:26.405	Playlist updated from database
+INFO	2015. 12. 9. 0:24:26.497	Playlist updated from database
+INFO	2015. 12. 9. 0:25:26.566	Playlist updated from database
+INFO	2015. 12. 9. 0:26:26.670	Playlist updated from database
+INFO	2015. 12. 9. 0:27:26.848	Playlist updated from database
+INFO	2015. 12. 9. 0:28:26.962	Playlist updated from database
+INFO	2015. 12. 9. 0:29:27.041	Playlist updated from database
+INFO	2015. 12. 9. 0:30:27.164	Playlist updated from database
+INFO	2015. 12. 9. 0:31:27.259	Playlist updated from database
+INFO	2015. 12. 9. 0:32:27.340	Playlist updated from database
+INFO	2015. 12. 9. 0:33:27.454	Playlist updated from database
+INFO	2015. 12. 9. 0:34:27.569	Playlist updated from database
+INFO	2015. 12. 9. 0:35:27.638	Playlist updated from database
+INFO	2015. 12. 9. 0:36:27.774	Playlist updated from database
+INFO	2015. 12. 9. 0:37:27.849	Playlist updated from database
+INFO	2015. 12. 9. 0:38:27.930	Playlist updated from database
+INFO	2015. 12. 9. 0:39:28.072	Playlist updated from database
+INFO	2015. 12. 9. 0:40:28.181	Playlist updated from database
+INFO	2015. 12. 9. 0:41:28.260	Playlist updated from database
+INFO	2015. 12. 9. 0:42:28.351	Playlist updated from database
+INFO	2015. 12. 9. 0:43:28.431	Playlist updated from database
+INFO	2015. 12. 9. 0:44:28.513	Playlist updated from database
+INFO	2015. 12. 9. 0:45:28.584	Playlist updated from database
+INFO	2015. 12. 9. 0:46:28.658	Playlist updated from database
+INFO	2015. 12. 9. 0:47:28.790	Playlist updated from database
+INFO	2015. 12. 9. 0:48:28.934	Playlist updated from database
+INFO	2015. 12. 9. 0:49:29.039	Playlist updated from database
+INFO	2015. 12. 9. 0:50:29.118	Playlist updated from database
+INFO	2015. 12. 9. 0:51:29.198	Playlist updated from database
+INFO	2015. 12. 9. 0:52:29.299	Playlist updated from database
+INFO	2015. 12. 9. 0:53:29.360	Playlist updated from database
+INFO	2015. 12. 9. 0:54:29.474	Playlist updated from database
+INFO	2015. 12. 9. 0:55:29.582	Playlist updated from database
+INFO	2015. 12. 9. 0:56:29.648	Playlist updated from database
+INFO	2015. 12. 9. 0:57:29.737	Playlist updated from database
+INFO	2015. 12. 9. 0:58:29.812	Playlist updated from database
+INFO	2015. 12. 9. 0:59:29.873	Playlist updated from database
+INFO	2015. 12. 9. 1:00:29.962	Playlist updated from database
+INFO	2015. 12. 9. 1:01:30.065	Playlist updated from database
+INFO	2015. 12. 9. 1:02:30.137	Playlist updated from database
+INFO	2015. 12. 9. 1:03:30.208	Playlist updated from database
+INFO	2015. 12. 9. 1:04:30.281	Playlist updated from database
+INFO	2015. 12. 9. 1:05:30.378	Playlist updated from database
+INFO	2015. 12. 9. 1:06:30.479	Playlist updated from database
+INFO	2015. 12. 9. 1:07:30.544	Playlist updated from database
+INFO	2015. 12. 9. 1:08:30.609	Playlist updated from database
+INFO	2015. 12. 9. 1:09:30.665	Playlist updated from database
+INFO	2015. 12. 9. 1:10:30.755	Playlist updated from database
+INFO	2015. 12. 9. 1:11:30.832	Playlist updated from database
+INFO	2015. 12. 9. 1:12:30.956	Playlist updated from database
+INFO	2015. 12. 9. 1:13:31.023	Playlist updated from database
+INFO	2015. 12. 9. 1:14:31.118	Playlist updated from database
+INFO	2015. 12. 9. 1:15:31.231	Playlist updated from database
+INFO	2015. 12. 9. 1:16:31.328	Playlist updated from database
+INFO	2015. 12. 9. 1:17:31.400	Playlist updated from database
+INFO	2015. 12. 9. 1:18:31.503	Playlist updated from database
+INFO	2015. 12. 9. 1:19:31.578	Playlist updated from database
+INFO	2015. 12. 9. 1:20:31.678	Playlist updated from database
+INFO	2015. 12. 9. 1:21:31.772	Playlist updated from database
+INFO	2015. 12. 9. 1:22:31.851	Playlist updated from database
+INFO	2015. 12. 9. 1:23:31.932	Playlist updated from database
+INFO	2015. 12. 9. 1:24:32.001	Playlist updated from database
